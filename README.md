@@ -1,4 +1,4 @@
-**https://github.com/Bardvioel/ono-tebe-nado**
+https://github.com/Bardvioel/ono-tebe-nado
 ---
 # Оно тебе надо — Аукцион вещей, в которые никто не верил
 
